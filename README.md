@@ -1,2 +1,0 @@
-# My Fitness
-## Akeem Hertenstein
