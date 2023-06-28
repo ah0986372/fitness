@@ -122,7 +122,9 @@ legend {
 
 }
 footer{
-
+    margin-top: 2%;
     background-color: purple ;
-    font-size: 2rem;
+    font-size: 1.3rem;
+    text-align: center;
+    
 }
